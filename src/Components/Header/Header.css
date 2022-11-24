@@ -1,0 +1,14 @@
+.header {
+    background: linear-gradient(rgb(112, 73, 43), black);
+    height: 200px;
+
+  }
+  
+  .header h1 {
+    margin: 0;
+    padding-top: 75px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+  }
+  

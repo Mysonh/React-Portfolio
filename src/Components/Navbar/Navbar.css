@@ -1,0 +1,15 @@
+li{
+    color: white;
+    margin: 5px;
+    line-height: 3;
+    list-style-type: none;
+    display: inline;
+    justify-content: space-between;
+  }
+
+  li:hover{
+    cursor: pointer;
+
+  }
+
+  
